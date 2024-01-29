@@ -25,7 +25,7 @@ The first five panels are horizontal.  The last is vertical.
 
 ## Board 1 - contact information
 
-![Horizontal example](assets/calling_card.png)
+![](assets/calling_card.png)
 
 A Victorian-style business card for "Joel John" blending traditional elegance with modern design elements.
 
@@ -33,7 +33,7 @@ A Victorian-style business card for "Joel John" blending traditional elegance wi
 
 My first theme is *passion*.  Below is my storyboard.
 
-![Horizontal example](assets/passion.png)
+![](assets/passion.png)
 
 
 I selected *passion* because it shows a vibrant display themed around "Passion," featuring fiery colors and dynamic, expressive imagery.
@@ -44,7 +44,7 @@ What is dynamic on this panel? what is special about this panel? Why does the de
 
 This theme is *innovation*.
 
-![Horizontal example](assets/innovation.png)
+![](assets/innovation.png)
 
 I selected *innovation* because it shows a futuristic and creative showcase themed around "Innovation," with tech-inspired elements and a modern aesthetic.
 
@@ -52,7 +52,7 @@ I selected *innovation* because it shows a futuristic and creative showcase them
 
 This theme is *harmony*.
 
-![Horizontal example](assets/harmony.png)
+![](assets/harmony.png)
 
 
 
@@ -62,7 +62,7 @@ I selected *harmony* because it shows a serene and balanced representation theme
 
 This theme is *curiosity*.
 
-![Horizontal example](assets/curiosity.png)
+![](assets/curiosity.png)
 
 
 The "Curiosity" panel captivates with its mix of question marks, magnifying glasses, and celestial imagery, all in vibrant colors, symbolizing the dynamic and exploratory nature of curiosity.
@@ -71,7 +71,7 @@ The "Curiosity" panel captivates with its mix of question marks, magnifying glas
 
 The closing panel can more modern, in vertical format if you desire.  YES, if you choose, you can fit the last panel to your phone screen size.
 
-![Horizontal example](assets/conclusion.png)
+![](assets/conclusion.png)
 
 # Reflection
 
