@@ -1,4 +1,6 @@
 # CMSC 475 - Spring 2024 - Homework 2
+Name: Joel John
+Last Modified: 1/28/2024
 
 Homework 2 is about building a dynamic calling card.  You're provided with this scaffold repository. 
 

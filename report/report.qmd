@@ -1,7 +1,7 @@
 ---
 title: Homework Assignment 2
-author: Drop your name here
-date: last-modified
+author: Joel John
+date: 1/28/2024
 format:
   html:
     html-math-method: katex
@@ -9,10 +9,10 @@ format:
     embed-resources: true
 ---
 
-(provide brief project description here.  If you were to share this HTML with someone else, what would you want them to read first?)
+The storyboard comprises five distinct panels, each with its own unique theme and aesthetic. Panel 1 presents a Victorian-style business card for "Joel John," merging traditional elegance with contemporary design elements. Panel 2 bursts with vibrant colors and dynamic imagery, encapsulating the theme of "Passion." In Panel 3, a futuristic and creative display captures the essence of "Innovation," featuring tech-inspired visuals. Panel 4 exudes tranquility and balance, themed around "Harmony" with calming nature imagery and harmonious colors. Finally, Panel 5 brings the narrative together, integrating elements from all previous themes into a cohesive and visually impactful summary.
 
 * [LINK to GITHUB](https://github.com/cmsc-vcu/cmsc475-sp2024-hw2-template)
-* [LINK to FIGMA SHARE](https://www.figma.com/file/aSqekRNJn6DM1VMivvoibQ/Storyboard-Creator---Public-Demo-(Community)?type=design&node-id=111%3A2028&mode=design&t=PGNCnlkYRkizaQuu-1)
+* [LINK to FIGMA SHARE](https://www.figma.com/file/hdiIDvrGKiYLVyQBGiZdVR/Storyboard-Creator-(Community)?type=design&node-id=0%3A1&mode=design&t=VF9FyVMif5FdjJk1-1)
 
 (Be sure to freshen the links above with YOUR github and figma document shares!)
 
@@ -31,69 +31,54 @@ The first five panels are horizontal.  The last is vertical.
 
 ## Board 1 - contact information
 
-![Horizontal example](assets/hw2-calling-card-1.png)
+![Horizontal example](assets/calling_card.png)
+
+A Victorian-style business card for "Joel John" blending traditional elegance with modern design elements.
+
+## Board 2 - Passion
+
+My first theme is *passion*.  Below is my storyboard.
+
+![Horizontal example](assets/passion.png)
+
+
+I selected *passion* because it shows a vibrant display themed around "Passion," featuring fiery colors and dynamic, expressive imagery.
 
 What is dynamic on this panel? what is special about this panel? Why does the design mean?
 
-## Board 2 - Adventure
+## Board 3 - innovation
 
-My first theme is *adventure*.  Below is my storyboard.
+This theme is *innovation*.
 
-:::: {.columns}
-::: {.column width=65%}
-![](assets/hw2-adventure.png)
-:::
-::: {.column width=5%}
-&nbsp;
-:::
-::: {.column width=30%}
-![](assets/hw2-compass.png)
-:::
-::::
+![Horizontal example](assets/innovation.png)
 
-I selected *adventure* because ...
+I selected *innovation* because it shows a futuristic and creative showcase themed around "Innovation," with tech-inspired elements and a modern aesthetic.
 
-What is dynamic on this panel? what is special about this panel? Why does the design mean?
+## Board 4 - Harmony
 
-## Board 3 - Passion
+This theme is *harmony*.
 
-This theme is *passion*.
+![Horizontal example](assets/harmony.png)
 
-![Horizontal example](assets/hw2-calling-card-2.jpg)
 
-I selected *passion* because ...
 
-## Board 4 - Curiosity
+I selected *harmony* because it shows a serene and balanced representation themed around "Harmony," with calming nature imagery and soothing colors
+
+## Board 5 - Curiosity
 
 This theme is *curiosity*.
 
-```{=html}
-<center>
-<iframe src="https://editor.p5js.org/jleonard99/full/o2GbGov1J"
-width="520px"
-height="400px"
-data-external="1"
-></iframe>
-</center>
-```
+![Horizontal example](assets/curiosity.png)
 
 
-I selected *curiosity* because ...
-
-## Board 5 - Empowerment
-
-This theme is *empowerment*.
-
-![Horizontal example](assets/hw2-calling-card-2.jpg)
-
-I selected *empowerment* because ...
+The "Curiosity" panel captivates with its mix of question marks, magnifying glasses, and celestial imagery, all in vibrant colors, symbolizing the dynamic and exploratory nature of curiosity.
 
 ## Board 6 - Closing panel
 
 The closing panel can more modern, in vertical format if you desire.  YES, if you choose, you can fit the last panel to your phone screen size.
 
-![Vertical example](assets/hw2-contact-card-1.png)
+![Horizontal example](assets/conclusion.png)
 
 # Reflection
 
-(How did the assignment go?  What would you do different?)
+I think the assignment went alright. I just wished I started early so that I can be more creative
