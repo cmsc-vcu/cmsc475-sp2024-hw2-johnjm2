@@ -11,8 +11,8 @@ format:
 
 The storyboard comprises five distinct panels, each with its own unique theme and aesthetic. Panel 1 presents a Victorian-style business card for "Joel John," merging traditional elegance with contemporary design elements. Panel 2 bursts with vibrant colors and dynamic imagery, encapsulating the theme of "Passion." In Panel 3, a futuristic and creative display captures the essence of "Innovation," featuring tech-inspired visuals. Panel 4 exudes tranquility and balance, themed around "Harmony" with calming nature imagery and harmonious colors. Finally, Panel 5 brings the narrative together, integrating elements from all previous themes into a cohesive and visually impactful summary.
 
-GITHUB: (https://github.com/cmsc-vcu/cmsc475-sp2024-hw2-johnjm2.git)
-FIGMA: (https://www.figma.com/file/hdiIDvrGKiYLVyQBGiZdVR/Storyboard-Creator-(Community)?type=design&node-id=0%3A1&mode=design&t=VF9FyVMif5FdjJk1-1)
+* [GITHUB](https://github.com/cmsc-vcu/cmsc475-sp2024-hw2-johnjm2)
+* [FIGMA](https://www.figma.com/file/hdiIDvrGKiYLVyQBGiZdVR/Storyboard-Creator-(Community)?type=design&node-id=0%3A1&mode=design&t=VF9FyVMif5FdjJk1-1)
 
 
 
